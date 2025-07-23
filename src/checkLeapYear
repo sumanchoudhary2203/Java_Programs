@@ -1,0 +1,7 @@
+public class Check_if_a_Leap_Year {
+    public static void main(String [] args){
+        int Year = 2023;
+        boolean isLeap = (Year%4==0&&Year%100!=0)||(Year%400==0);
+        System.out.println(isLeap);
+    }
+}
