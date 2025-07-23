@@ -4,8 +4,8 @@ public class check_sum_of_digits {
         while (num!=0){
             sum +=num%10;
             num /= 10;
-
         }
         System.out.println(sum);
+
     }
 }
