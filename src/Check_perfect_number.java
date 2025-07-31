@@ -9,3 +9,4 @@ public class Check_perfect_number {
         System.out.println(num==sum);
     }
 }
+
