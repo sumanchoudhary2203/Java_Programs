@@ -15,5 +15,4 @@ public class prime_number_in_range {
             }
         }
     }
-
 }
