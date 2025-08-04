@@ -5,6 +5,3 @@ public class Check_if_String_Contains_Another_String {
         System.out.println(str1.contains(str2));
     }
 }
-
-
-
